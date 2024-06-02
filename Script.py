@@ -9,8 +9,8 @@ class script(object):
 """
     HELP_TXT = """<b>🔥𝓗𝓲  𝓽𝓱𝓮𝓻𝓮 </b>{}
     
-✨ <b>My Name :</b>  𝗖𝝠𝝦𝝩𝝠𝝞𝝥 𝝦𝗥𝝞𝗖𝝽
-👨‍💻 <b>Developer :</b> 𝙺𝚒𝚜𝚊𝚛𝚊 𝙿𝚎𝚜𝚊𝚗𝚓𝚒𝚝𝚑
+✨ <b>My Name :</b>  ENTERTAINMENT BOT
+👨‍💻 <b>Developer :</b> @DORAPUBLICATIONBOT
 🍀 <b>Data Base :</b> Mango DB
 📝 <b>Language :</b> Python3
 🧰 <b>Framework :</b> Pyrogram
@@ -26,12 +26,12 @@ class script(object):
 💥<b>Ids & User Info</b>
 💥<b>Ban , Unban Users</b>
 
-⚙️𝗣𝗼𝘄𝗲𝗿𝗱 𝗕𝘆 :- @AnonymousBotsInfinity
+⚙️𝗣𝗼𝘄𝗲𝗿𝗱 𝗕𝘆 :- @DORAPUBLICATIONBOT
 """
     ABOUT_TXT = """<b>🔥𝓗𝓲  𝓽𝓱𝓮𝓻𝓮 </b>{}
     
-✨ <b>My Name :</b> 𝗖𝝠𝝦𝝩𝝠𝝞𝝥 𝝦𝗥𝝞𝗖𝝽
-👨‍💻 <b>Developer :</b> 𝙺𝚒𝚜𝚊𝚛𝚊 𝙿𝚎𝚜𝚊𝚗𝚓𝚒𝚝𝚑
+✨ <b>My Name :</b> 𝗘𝗡𝗧𝗘𝗥𝗧𝗔𝗜𝗡𝗠𝗘𝗡𝗧 𝗕𝗢𝗧
+👨‍💻 <b>Developer :</b> 𝗚𝗥𝗘𝗘𝗡 𝗠𝗢𝗩𝗜𝗘𝗦
 🍀 <b>Data Base :</b> Mango DB
 📝 <b>Language :</b> Python3
 🧰 <b>Framework :</b> Pyrogram
@@ -47,14 +47,14 @@ class script(object):
 💥<b>Ids & User Info</b>
 💥<b>Ban , Unban Users</b>
 
-⚙️𝗣𝗼𝘄𝗲𝗿𝗱 𝗕𝘆 :- @AnonymousBotsInfinity
+⚙️𝗣𝗼𝘄𝗲𝗿𝗱 𝗕𝘆 :- @dorapublicationbot
 """
     CREDITS = """<b>Credit 🌟</b>
     
-🔥𝗖𝝠𝝦𝝩𝝠𝝞𝝥 𝝦𝗥𝝞𝗖𝝽 Is A Auto Filter Bot As Well As One Bot In Telegram That Can Download Games,Movies & Series Inline📝
+🔥𝗘𝗻𝘁𝗲𝗿𝘁𝗮𝗶𝗻𝗺𝗲𝗻𝘁 𝗯𝗼𝘁 Is A Auto Filter Bot As Well As One Bot In Telegram That Can Download Games,Movies & Series Inline📝
 - <b>Developer 👨‍💻</b>
 
-<b>𝙺𝚒𝚜𝚊𝚛𝚊 𝙿𝚎𝚜𝚊𝚗𝚓𝚒𝚝𝚑</b>
+<b>𝗔𝘀𝘄𝗶𝗻 𝗥𝗮𝗷</b>
 
 - <b>Thanks To 👑</b>
 
@@ -63,4 +63,4 @@ class script(object):
 <b>🏷️ Trojanz</b> for Their Awesome Unlimited Filter Bot And AutoFilterBoT
 <b>🏷️ Senu Gamer Boy</b> And His friend <b>Subinps</b>
 
-⚙️𝗣𝗼𝘄𝗲𝗿𝗱 𝗕𝘆 :- @AnonymousBotsInfinity"""
+⚙️𝗣𝗼𝘄𝗲𝗿𝗱 𝗕𝘆 :- @Dorapublicationbot"""
