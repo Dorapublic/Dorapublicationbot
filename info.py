@@ -56,7 +56,7 @@ default_start_cap = """
 
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
-PICS = (environ.get('PICS', '')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/42ba170b8362fc451677a.mp4 https://telegra.ph/file/978c3d83931a32a1f2316.jpg https://telegra.ph/file/ee49e896936b4cdaba515.jpg https://telegra.ph/file/f9f788cb55a74c47988f8.jpg')).split()
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MaX_Bots_Support')
 IMDB = eval((environ.get('IMDB', "True")))
 P_TTTI_SHOW_OFF = eval((environ.get('P_TTTI_SHOW_OFF', "False")))
@@ -64,7 +64,7 @@ BUTTON = environ.get("BUTTON",False)
 FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", default_start_cap)
 SINGLE_BUTTON = eval((environ.get('SINGLE_BUTTON', "True")))
 OMDB_API_KEY = environ.get("OMDB_API_KEY", "http://www.omdbapi.com/?i=tt3896198&apikey=4f08a979")
-if FILE_CAPTION.strip() == "":
+if FILE_CAPTION.strip() == "Dorapublicationbot":
     CUSTOM_FILE_CAPTION=None
 else:
     CUSTOM_FILE_CAPTION=FILE_CAPTION
