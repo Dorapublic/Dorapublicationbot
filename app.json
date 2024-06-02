@@ -49,12 +49,12 @@
         },
         "START_MSG": {
             "description": "Welcome Message For Start Command",
-            "value": "**Hi, I'm 𝗖𝝠𝝦𝝩𝝠𝝞𝝥 𝝦𝗥𝝞𝗖𝝽°™️ 🇱🇰 Clone You can call me as 𝗖𝝠𝝦𝝩𝝠𝝞𝝥 𝝦𝗥𝝞𝗖𝝽°™️ 🇱🇰 **\n\nHere you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search😍.",
+            "value": "**Hi, I'm Entertainment Bot🇱🇰  You can call me as Dora 🇱🇰 **\n\nHere you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search😍.",
             "required": false
         },
         "USE_CAPTION_FILTER": {
             "description": "Whether Bot Should Use Captions To Improve Search Results. (True False)",
-            "value": "False",
+            "value": ".",
             "required": false
         },
         "OMDB_API_KEY": {
@@ -64,7 +64,23 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A Custom File Caption For Your Files. Formatable With , file_name, file_caption, file_size, Read Readme.md For Better Understanding.",
-            "value": "",
+            "value": "📂file no. :-DPB***MFI_[{file_size}] 
+                   <ᵘⁿᵈᵉʳ ᶜᵒᵖʸʳⁱᵍʰᵗ ᵗᵉʳᵐˢ       ᵃⁿᵈ ᶜᵒⁿᵈⁱᵗⁱᵒⁿ >
+📂file name :- {file_name}
+
+File Size :- [{file_size}] 
+
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ  ═════╗
+♻️ 𝙅𝙊𝙄𝙉 :- @armoviechat
+▫️
+♻️ 𝙅𝙊𝙄𝙉 :- @entertainmentbots
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ  ═════╝
+
+✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯
+
+©𝙶𝚁𝙴𝙴𝙽 𝙼𝙾𝚅𝙸𝙴𝚂
+
+тнιѕ fιℓє 𝚍𝖊𝖑𝖊𝖙𝖊 𝖜𝖎𝖙𝖍 𝖎𝖓 5 𝖒𝖎𝖓.",
             "required": false
         },
         "AUTH_GROUPS": {
